@@ -1,0 +1,15 @@
+{
+  "home": {
+    "greeting": "Hola, sóc Alex Ramos 👋",
+    "intro": "Explora qui sóc, què he fet i com pots contactar amb mi.",
+    "aboutTitle": "Sobre mi",
+    "aboutPreview": "Sóc un apassionat de la informàtica...",
+    "aboutBtn": "Anar a Sobre mi",
+    "projectsTitle": "Projectes",
+    "projectsPreview": "He desenvolupat diversos projectes...",
+    "projectsBtn": "Anar a Projectes",
+    "contactTitle": "Contacte",
+    "contactPreview": "Si t'interessa col·laborar o tens alguna pregunta...",
+    "contactBtn": "Anar a Contacte"
+  }
+}

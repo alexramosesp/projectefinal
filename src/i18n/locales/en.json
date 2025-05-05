@@ -1,0 +1,15 @@
+{
+  "home": {
+    "greeting": "Hi, I'm Alex Ramos 👋",
+    "intro": "Explore who I am, what I’ve done, and how you can contact me.",
+    "aboutTitle": "About me",
+    "aboutPreview": "I’m passionate about technology, with training in multimedia applications and experience in web design.",
+    "aboutBtn": "Go to About me",
+    "projectsTitle": "Projects",
+    "projectsPreview": "I’ve built several personal and academic projects that combine technology and creativity.",
+    "projectsBtn": "View Projects",
+    "contactTitle": "Contact",
+    "contactPreview": "If you’re interested in collaborating or have any questions, feel free to get in touch.",
+    "contactBtn": "Go to Contact"
+  }
+}
