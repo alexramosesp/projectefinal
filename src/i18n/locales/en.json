@@ -1,15 +1,77 @@
 {
   "home": {
+    "home": "Home",
     "greeting": "Hi, I'm Alex Ramos 👋",
-    "intro": "Explore who I am, what I’ve done, and how you can contact me.",
+    "intro": "I'm an IT technician passionate about technology, with training in multimedia application development and experience in web design. I see myself as a lifelong learner, solution-oriented, and a strong team player.",
     "aboutTitle": "About me",
-    "aboutPreview": "I’m passionate about technology, with training in multimedia applications and experience in web design.",
-    "aboutBtn": "Go to About me",
+    "aboutPreview": "With a background in multimedia application development and experience in web design, I create modern and functional tech solutions.",
+    "aboutExtra": "🔎 I am looking to be part of a development team where I can apply my skills and continue to grow professionally.",
+    "aboutBtn": "Learn more about me",
     "projectsTitle": "Projects",
-    "projectsPreview": "I’ve built several personal and academic projects that combine technology and creativity.",
-    "projectsBtn": "View Projects",
+    "projectsPreview": "I’ve worked on several personal and academic projects using technologies like HTML, CSS, JavaScript, Angular, and Odoo.",
+    "projectsIntroDetail": "📌 Below is one of the most representative projects:",
+    "projectsHighlightTitle": "Rutify – Route planner",
+    "projectsHighlightDescription": "Collaborative project focused on helping users plan travel routes. Built with React, Leaflet, and Firebase, including user authentication and management.",
+    "projectsHighlightLink": "View repository →",
+    "projectsBtn": "View all projects",
     "contactTitle": "Contact",
-    "contactPreview": "If you’re interested in collaborating or have any questions, feel free to get in touch.",
-    "contactBtn": "Go to Contact"
+    "contactDetails": {
+      "address": "📍 C/Mossèn Gelabert 10 2n 4ª",
+      "phone": "📞 +34 686213387",
+      "email": "✉️ alexramos140403@gmail.com",
+      "note": "🚗 Studying for a driver's license | Full availability"
+    },
+    "contactBtn": "Go to contact"
+  },
+  "about": {
+    "title": "About me",
+    "description": "I’m passionate about technology, with a background in multimedia application development and previous experience in web design. I’m a continuous learner, solution-driven, and a great team player.",
+    "educationTitle": "\uD83C\uDF93 Education",
+    "education": {
+      "vidreres": "Institut Vidreres",
+      "lasalle": "La Salle Cassà de la Selva",
+      "superior": "Higher Degree in Multimedia Application Development",
+      "mitja": "Intermediate Degree in Microcomputer Systems and Networks",
+      "eso": "Compulsory Secondary Education"
+    },
+    "skillsTitle": "\uD83D\uDCBB Technical skills",
+    "skillsList": [
+      "Java, Python, JavaScript, HTML and CSS",
+      "Angular, Odoo",
+      "Microsoft Office Suite",
+      "Problem solving"
+    ],
+    "languagesTitle": "\uD83D\uDDE3\uFE0F Languages",
+    "languagesList": [
+      "Catalan and Spanish – Native",
+      "English – Upper-Intermediate level"
+    ]
+  },
+  "projects": {
+    "title": "My Projects",
+    "intro": "These are some of the projects I've worked on, combining creativity and technology in each one.",
+    "rutify": {
+      "title": "Rutify – Route Planner",
+      "description": "Collaborative app for planning travel routes. Includes user authentication, interactive maps, and responsive design."
+    },
+    "final": {
+      "title": "Personal Portfolio – React + Vite",
+      "description": "Personal website built with React and Vite. Showcases projects, education, and contact info in multiple languages."
+    },
+    "technologies": "Technologies",
+    "repository": "Repository",
+    "demo": "Demo"
+  },
+  "contact": {
+    "title": "Contact",
+    "intro": "I'm available for collaborations or new challenges. You can contact me by phone or email. Let's talk!",
+    "address": "📍 C/Mossèn Gelabert 10 2n 4ª",
+    "phone": "📞 +34 686213387",
+    "email": "✉️ alexramos140403@gmail.com",
+    "note": "🚗 Studying for a driver's license | Full availability",
+    "button": "Contact me"
+  },
+  "footer": {
+    "contactMe": "Contact me"
   }
 }

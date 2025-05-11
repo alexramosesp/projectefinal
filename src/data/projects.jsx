@@ -1,17 +1,22 @@
+import rutifyImg from "../assets/rutify-login.png";
+import finalImg from "../assets/projectefinal.png";
+
 export const projects = [
   {
-    title: "Proyecto 1",
-    description: "Descripción breve del proyecto 1.",
-    repo: "https://github.com/alexramosesp/proyecto1",
-    demo: "https://proyecto1-demo.vercel.app",
-    image: "/assets/proyecto1.png"
+    titleKey: "projects.rutify.title",
+    descriptionKey: "projects.rutify.description",
+    tech: ["Kotlin", "Firebase", "SupaBase"],
+    repo: "https://github.com/RaulLunaAlcalde/Rutify",
+    demo: "",
+    image: rutifyImg,
   },
   {
-    title: "Proyecto 2",
-    description: "Descripción breve del proyecto 2.",
-    repo: "https://github.com/alexramosesp/proyecto2",
-    demo: "https://proyecto2-demo.vercel.app",
-    image: "/assets/proyecto2.png"
-  },
-  // Añade más proyectos según sea necesario
+    titleKey: "projects.final.title",
+    descriptionKey: "projects.final.description",
+    tech: ["React", "Vite", "CSS"],
+    repo: "https://github.com/alexramosesp/projectefinal",
+    demo: "",
+    image: finalImg,
+  }
 ];
+

@@ -1,15 +1,76 @@
 {
   "home": {
+    "home": "Inicio",
     "greeting": "Hola, soy Alex Ramos 👋",
-    "intro": "Explora quién soy, qué he hecho y cómo puedes contactar conmigo.",
+    "intro": "Soy un técnico informático apasionado por la tecnología, con formación en desarrollo de aplicaciones multimedia y experiencia en diseño web. Me defino como una persona con ganas de aprender continuamente, resolutiva y con buena capacidad para el trabajo en equipo.",
     "aboutTitle": "Sobre mí",
-    "aboutPreview": "Soy un apasionado de la informática con formación en aplicaciones multimedia y experiencia en diseño web.",
-    "aboutBtn": "Ir a Sobre mí",
+    "aboutPreview": "Formado en desarrollo de aplicaciones multimedia y con experiencia en diseño web, me especializo en crear soluciones tecnológicas modernas y funcionales.",
+    "aboutExtra": "🔎 Busco formar parte de un equipo de desarrollo donde pueda aplicar mis habilidades y seguir creciendo profesionalmente.",
+    "aboutBtn": "Más sobre mí",
     "projectsTitle": "Proyectos",
-    "projectsPreview": "He desarrollado varios proyectos personales y académicos que combinan tecnología y creatividad.",
-    "projectsBtn": "Ver proyectos",
+    "projectsPreview": "He trabajado en varios proyectos personales y académicos, combinando tecnologías como HTML, CSS, JavaScript, Angular y Odoo.",
+    "projectsIntroDetail": "📌 A continuación, uno de los proyectos más representativos:",
+    "projectsHighlightTitle": "Rutify – Planificador de rutas",
+    "projectsHighlightDescription": "Proyecto colaborativo enfocado en facilitar la planificación de rutas de viaje. Desarrollado con React, Leaflet y Firebase, incluye autenticación y gestión de usuarios.",
+    "projectsHighlightLink": "Ver repositorio →",
+    "projectsBtn": "Ver todos los proyectos",
     "contactTitle": "Contacto",
-    "contactPreview": "Si te interesa colaborar o tienes alguna pregunta, puedes ponerte en contacto conmigo directamente.",
-    "contactBtn": "Ir a Contacto"
+    "contactDetails": {
+      "address": "📍 C/Mossèn Gelabert 10 2n 4ª",
+      "phone": "📞 +34 686213387",
+      "email": "✉️ alexramos140403@gmail.com",
+      "note": "🚗 Estudiando carnet de conducir | Disponibilidad total"
+    },
+    "contactBtn": "Ir a contacto"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "description": "Apasionado de la informática con formación en desarrollo de aplicaciones multimedia y experiencia previa en diseño web. Me considero una persona con ganas de aprender, resolutiva y con buena capacidad para trabajar en equipo.",
+    "educationTitle": "\uD83C\uDF93 Educación",
+    "education": {
+      "vidreres": "Institut Vidreres",
+      "lasalle": "La Salle Cassà de la Selva",
+      "superior": "Ciclo Superior Desarrollo de Aplicaciones Multimedia",
+      "mitja": "Ciclo Medio Sistemas Microinformáticos en Red",
+      "eso": "Educación Secundaria Obligatoria"
+    },
+    "skillsTitle": "\uD83D\uDCBB Habilidades técnicas",
+    "skillsList": [
+      "Java, Python, JavaScript, HTML y CSS",
+      "Angular, Odoo",
+      "Paquete Office",
+      "Resolución de problemas"
+    ],
+    "languagesTitle": "\uD83D\uDDE3\uFE0F Idiomas",
+    "languagesList": [
+      "Catalán y Castellano – Nativo",
+      "Inglés – Nivel Medio-Alto"
+    ]
+  },
+  "projects": {
+    "title": "Mis Proyectos",
+    "intro": "Estos son algunos de los proyectos en los que he trabajado, combinando creatividad y tecnología en cada uno.",
+    "rutify": {
+      "title": "Rutify – Planificador de rutas",
+      "description": "Aplicación colaborativa para planificar rutas de viaje. Incluye autenticación de usuarios, mapas interactivos y diseño responsive."
+    },"final": {
+      "title": "Portfolio personal – React + Vite",
+      "description": "Página web personal desarrollada con React y Vite. Presenta proyectos, formación y contacto en múltiples idiomas."
+    },
+    "technologies": "Tecnologías",
+    "repository": "Repositorio",
+    "demo": "Demo"
+  },
+  "contact": {
+    "title": "Contacto",
+    "intro": "Estoy disponible para colaboraciones o nuevos retos. Puedes contactar por teléfono o correo. ¡Hablemos!",
+    "address": "📍 C/Mossèn Gelabert 10 2n 4ª",
+    "phone": "📞 +34 686213387",
+    "email": "✉️ alexramos140403@gmail.com",
+    "note": "🚗 Estudiando carnet de conducir | Disponibilidad total",
+    "button": "Contáctame"
+  },
+  "footer": {
+    "contactMe": "Contáctame"
   }
 }

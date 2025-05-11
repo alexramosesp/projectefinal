@@ -1,17 +1,17 @@
 export const education = [
   {
-    institution: "Institut Vidreres",
-    title: "Cicle Superior Desenvolupament d’aplicacions multimèdia",
+    institutionKey: "about.education.vidreres",
+    titleKey: "about.education.superior",
     period: "2023 - 2025",
   },
   {
-    institution: "Institut Vidreres",
-    title: "Cicle Mitjà Sistemes microinformàtics en xarxa",
+    institutionKey: "about.education.vidreres",
+    titleKey: "about.education.mitja",
     period: "2021 - 2023",
   },
   {
-    institution: "La Salle Cassà de la Selva",
-    title: "Educació Secundària Obligatòria",
+    institutionKey: "about.education.lasalle",
+    titleKey: "about.education.eso",
     period: "2015 - 2019",
   },
 ];
